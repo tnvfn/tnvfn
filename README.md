@@ -1,3 +1,10 @@
-## Okay i'm gonna tell abt myself now.
+**Hi!**
 
-I'm developer with 5y of experience, i own Siphon (OGFN project) and other things. I'm gonna add more shit here later on.
+I'm 16 years old developer. I dev C++, C#, javascript, Java (little bit) and Python and some weird languages.
+
+# About me
+
+I HATE script kiddos.
+I kind of Hate skidders (u can modify the code and credit but straight copyin without crediting is no no.)
+
+I will add some shit when i have time lol
