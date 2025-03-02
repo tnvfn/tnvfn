@@ -1,6 +1,6 @@
 **Hi!**
 
-I'm 16 years old developer. I dev C++, C#, javascript, Java (little bit) and Python and some weird languages.
+I'm developer. I dev C++, C#, javascript, Java (little bit) and Python and some weird languages.
 
 # About me
 
